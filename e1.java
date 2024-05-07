@@ -19,7 +19,7 @@ public class e1 {
     scanner.close();
   }
   
-  //hola
+  //ADIOS
 
   public static boolean isPrime(int n) {
     if (n <= 1) {
