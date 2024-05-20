@@ -5,7 +5,7 @@ public class e1 {
   
   public static void main(String[] args) {
     
-    Scanner teclado = new Scanner(System.in); //HE CAMBIADO SCANNER POR TECLADO
+    Scanner- teclado = new Scanner(System.in); //HE CAMBIADO SCANNER POR TECLADO
     
     System.out.print("Ingrese un número: ");
     int number = scanner.nextInt();
