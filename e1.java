@@ -5,7 +5,7 @@ public class e1 {
   
   public static void main(String[] args) {
     
-    Scanner scanner = new Scanner(System.in);
+    Scanner- teclado = new Scanner(System.in); //HE CAMBIADO SCANNER POR TECLADO
     
     System.out.print("Ingrese un número: ");
     int number = scanner.nextInt();
@@ -19,7 +19,7 @@ public class e1 {
     scanner.close();
   }
   
-  //hola
+  //ADIOS
 
   public static boolean isPrime(int n) {
     if (n <= 1) {
